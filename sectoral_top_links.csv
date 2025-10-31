@@ -1,0 +1,6 @@
+from,to,min_pval
+Energy,Metals,6.556906811830476e-06
+Livestock,Energy,0.0004026093640661
+Energy,Livestock,0.0004932073252213
+Livestock,Softs,0.00055897424228
+Agriculture,Livestock,0.0006632493530084

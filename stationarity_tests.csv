@@ -1,0 +1,25 @@
+Commodity,ADF_pvalue,ADF_stationary,KPSS_pvalue,KPSS_stationary
+Brent Crude Oil,0.0,Yes,0.1,Yes
+Cocoa,2.966027668955232e-23,Yes,0.03979023794995486,No
+Crude Oil WTI,4.1642180599299935e-20,Yes,0.1,Yes
+Cotton,0.0,Yes,0.1,Yes
+Gold,0.0,Yes,0.1,Yes
+Feeder Cattle,0.0,Yes,0.1,Yes
+Lean Hogs,0.0,Yes,0.1,Yes
+Copper,0.0,Yes,0.1,Yes
+Heating Oil,0.0,Yes,0.1,Yes
+Coffee,0.0,Yes,0.1,Yes
+Live Cattle,0.0,Yes,0.1,Yes
+Natural Gas,7.638612469229115e-29,Yes,0.1,Yes
+Orange Juice,0.0,Yes,0.1,Yes
+Platinum,5.152878896675404e-27,Yes,0.1,Yes
+RBOB Gasoline,2.4182967695180463e-22,Yes,0.1,Yes
+Sugar,0.0,Yes,0.1,Yes
+Silver,0.0,Yes,0.1,Yes
+Corn,0.0,Yes,0.1,Yes
+Soybean Oil,0.0,Yes,0.1,Yes
+Soybean Meal,0.0,Yes,0.1,Yes
+Oats,0.0,Yes,0.1,Yes
+Rough Rice,0.0,Yes,0.1,Yes
+Soybeans,0.0,Yes,0.1,Yes
+Wheat,0.0,Yes,0.1,Yes

@@ -1,0 +1,6 @@
+,out_degree,in_degree,net_outflow
+Energy,2,1,1
+Livestock,2,2,0
+Agriculture,1,0,1
+Metals,0,1,-1
+Softs,0,1,-1

@@ -1,0 +1,25 @@
+Commodity,F-statistic,p-value,Seasonal Effect?,Significance
+Brent Crude Oil,1.4349,0.1499,No,
+Cocoa,1.2823,0.2278,No,
+Crude Oil WTI,0.9957,0.4475,No,
+Cotton,1.6027,0.0911,Yes,*
+Gold,1.2988,0.2181,No,
+Feeder Cattle,1.1204,0.3402,No,
+Lean Hogs,4.9349,0.0,Yes,***
+Copper,0.7406,0.7,No,
+Heating Oil,0.8593,0.5803,No,
+Coffee,0.5793,0.8472,No,
+Live Cattle,3.2726,0.0002,Yes,***
+Natural Gas,1.5626,0.103,No,
+Orange Juice,0.9462,0.4942,No,
+Platinum,1.4475,0.1446,No,
+RBOB Gasoline,1.6467,0.0795,Yes,*
+Sugar,2.5794,0.0029,Yes,***
+Silver,0.8759,0.5636,No,
+Corn,2.0865,0.0182,Yes,**
+Soybean Oil,0.9617,0.4794,No,
+Soybean Meal,1.6151,0.0877,Yes,*
+Oats,0.7333,0.7073,No,
+Rough Rice,0.0226,1.0,No,
+Soybeans,1.7494,0.0573,Yes,*
+Wheat,0.9254,0.5145,No,

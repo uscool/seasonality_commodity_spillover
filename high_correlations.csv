@@ -1,0 +1,15 @@
+Commodity 1,Commodity 2,Correlation
+Brent Crude Oil,Crude Oil WTI,0.877
+Brent Crude Oil,Heating Oil,0.799
+Gold,Silver,0.798
+Soybean Meal,Soybeans,0.773
+Crude Oil WTI,Heating Oil,0.732
+Brent Crude Oil,RBOB Gasoline,0.713
+Crude Oil WTI,RBOB Gasoline,0.677
+Heating Oil,RBOB Gasoline,0.663
+Platinum,Silver,0.643
+Gold,Platinum,0.589
+Corn,Wheat,0.565
+Soybean Oil,Soybeans,0.543
+Corn,Soybeans,0.533
+Feeder Cattle,Live Cattle,0.513
