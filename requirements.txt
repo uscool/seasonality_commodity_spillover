@@ -1,0 +1,9 @@
+matplotlib==3.10.1
+networkx==3.5
+numpy==2.2.6
+pandas==2.3.3
+scikit-learn==1.9.1
+scipy==1.18.1
+seaborn==0.13.2
+statsmodels==0.14.4
+yfinance==0.2.66
