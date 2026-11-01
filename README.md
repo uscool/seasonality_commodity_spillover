@@ -34,7 +34,7 @@ Seasonality is a well-known driver of individual commodity prices: grains move w
 
 Many top links have clear economic explanations (energy-to-energy integration; soy products as cattle feed). Some do not, such as orange juice to platinum and copper, and may be statistical artifacts.
 
-**At the sector level, five links survive Bonferroni correction:** Energy → Metals (p = 0.00013), Livestock → Energy (0.008), Energy → Livestock (0.010), Livestock → Softs (0.011), and Agriculture → Livestock (0.013). Energy and agriculture are net transmitters of seasonal shocks; metals is a net receiver.
+**At the sector level, five links survive Bonferroni correction:** Energy → Metals (p = 0.00013), Livestock → Energy (0.008), Energy → Livestock (0.010), Livestock → Softs (0.011), and Agriculture → Livestock (0.013). Energy and agriculture are net transmitters of seasonal shocks; metals and softs are net receivers.
 
 **Market-wide, seasonality explains very little of total spillover.** The Diebold-Yilmaz index falls from 99.89% on raw returns to 99.87% on deseasonalized returns, a difference of about 0.02 percentage points.
 
