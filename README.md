@@ -1,6 +1,6 @@
 # Do Seasonal Effects Spill Over Across Commodity Markets?
 
-Code, data, and results for the paper *"Do Seasonal Effects Spill Over Across Commodity Markets?"* (Ujjwal Sharma, NMIMS Mumbai).
+An independent research project.
 
 Seasonality is a well-known driver of individual commodity prices: grains move with planting and harvest cycles, natural gas with winter heating demand. This project asks a less-studied question: **does the seasonal component of one commodity market predict the seasonal component of another?** If it does, seasonal risk can travel between markets, which matters for hedging, portfolio construction, and policy.
 
@@ -74,6 +74,3 @@ pip install -r requirements.txt
 
 Open `research.ipynb` and run all cells. The first cells download commodity prices from Yahoo Finance via `yfinance`, so an internet connection is required. `data/commodity_prices_clean.csv` is the snapshot used for the results above; re-running the notebook re-downloads and overwrites it, so numbers may differ slightly.
 
-## Citation
-
-Sharma, U. (2025). *Do Seasonal Effects Spill Over Across Commodity Markets?* NMIMS Mumbai.
